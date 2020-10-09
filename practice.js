@@ -30,3 +30,5 @@ app.get (
 
     }
 )
+
+myMethod(argument1, callbackfunction, ...)
